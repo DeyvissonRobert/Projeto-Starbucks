@@ -9,7 +9,7 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
-### <p>👾Teste <a href="https://deyvissonrobert.github.io/Projeto-5-Dev-Sorteio/" target="_blank">Aqui</a>👾</p>
+### <p>👾Teste <a href="https://deyvissonrobert.github.io/Projeto-Starbucks/">Aqui</a>👾</p>
   </div>
 
 <div align="center" display="inline-block">

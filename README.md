@@ -5,7 +5,7 @@
 
 ## ✧ Esse foi um projeto que desenvolvi durante as lives da missão "Progamação do Zero" junto com <a href="https://github.com/rodolfomori" target="_blank">Rofolfo Mori</a>.🚀 ✧
 
-### ✧ Além de realizar o projeto conforme ensinado, apliquei a responsividade para mobile no na página e tornei o botão funcional , que ao clicar, leva ao meu LinkedIn  ✧
+### ✧ Além de realizar o projeto conforme ensinado, para me diversificar, apliquei a responsividade para mobile na página e tornei o botão funcional , que ao clicar, leva ao meu LinkedIn. ✧
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧

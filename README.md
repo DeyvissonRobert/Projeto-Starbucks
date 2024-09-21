@@ -2,7 +2,7 @@
  > Irei melhorar essa foto abaixo!
 <div align="center">
   
-# ✧ Projeto Starbucks ✧
+# ✧ Starbucks ✧
 <br> <br>
 
 ## ✧ Esse foi um projeto que desenvolvi durante as lives da missão "Progamação do Zero 2.4" junto com <a href="https://github.com/rodolfomori" target="_blank">Rofolfo Mori</a>.🚀 ✧
